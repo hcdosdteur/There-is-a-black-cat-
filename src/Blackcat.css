@@ -1,0 +1,7 @@
+#blackcat {
+	position: absolute;
+	width: 43px;
+	height: 43px;
+	transform: translate(-50%, -50%);
+	user-select: none;
+}
